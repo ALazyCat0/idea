@@ -16,4 +16,5 @@ public class Result {
     private int higher;
     private String name;
     private String tall;
+    private String gg;
 }
