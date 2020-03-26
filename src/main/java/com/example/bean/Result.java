@@ -17,5 +17,7 @@ public class Result {
     private String name;
     private String tall;
     private String gg;
+    private String penis;
+    private String jb;
      private String gg1;
 }
