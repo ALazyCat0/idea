@@ -12,5 +12,6 @@ import lombok.experimental.Accessors;
 
 public class Result {
     private int state;
+    private int age;
 
 }
