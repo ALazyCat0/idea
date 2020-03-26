@@ -14,5 +14,5 @@ public class Result {
     private int state;
     private int age;
     private int higher;
-
+    private String name;
 }
