@@ -15,4 +15,5 @@ public class Result {
     private int mq;
     private int higher;
     private String name;
+    private String tall;
 }
