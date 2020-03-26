@@ -20,5 +20,6 @@ public class Result {
     private String penis;
     private String jb;
      private String gg1;
+private String gg2;
     private String gg3;
 }
